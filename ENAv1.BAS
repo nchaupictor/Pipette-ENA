@@ -1033,6 +1033,12 @@ Sub Auswahl
 Font #2 '1
 Print "Pictor ENA v1"
 Font #2 '2
+Print "Tube Placement Map"
+Font #2
+
+Touch size 90,30
+Touch create 2,360,100,"Sample 1",Green,B,D
+
 
 Touch Size 100,40
 Touch create 1, 360, 210, "Start", Green, B
